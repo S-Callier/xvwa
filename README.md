@@ -64,9 +64,9 @@ allow_url_fopen = on
 allow_url_include = on 
 ```
 
-XVWA will be accessible at http://localhost/xvwa/
+XVWA will be accessible at http://localhost/web/
 
-Setup or reset the database and table here http://localhost/xvwa/setup/
+Setup or reset the database and table here http://localhost/web/setup/
 
 The login details
 
